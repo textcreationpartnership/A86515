@@ -1,0 +1,312 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Honours invitation, or A call to the camp VVherein the triumphant genius of Great Brittain by a poetical alarm awakens the youth of the three nations, to generous attempts, for the glory of their countrey: with a prospect of the present gallant campagne on Black-Heath. VVriten by a young gentleman of quality now in the service.</title>
+            <author>Young gentleman of quality now in the service.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86515</idno>
+            <idno type="STC">Wing H2601bA</idno>
+            <idno type="STC">ESTC R230662</idno>
+            <idno type="EEBO-CITATION">99896419</idno>
+            <idno type="PROQUEST">99896419</idno>
+            <idno type="VID">154202</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A86515)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 154202)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2404:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Honours invitation, or A call to the camp VVherein the triumphant genius of Great Brittain by a poetical alarm awakens the youth of the three nations, to generous attempts, for the glory of their countrey: with a prospect of the present gallant campagne on Black-Heath. VVriten by a young gentleman of quality now in the service.</title>
+                  <author>Young gentleman of quality now in the service.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by H.B. for John Clark at the Harp and Bible in VVest-Smithfield,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>The poem is dated at end: "With allowance, June 21. 1673".</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  1660-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:154202:1"/>
+               <pb facs="tcp:154202:2"/>
+               <pb facs="tcp:154202:3"/>
+               <pb facs="tcp:154202:3" rendition="simple:additions"/>
+HONOURS INVITATION, OR A Call to the Camp.</p>
+            <p>
+               <hi>VVHEREIN</hi> The Triumphant Genius of Great Brittain by a Poetical Alarm AWAKENS The Youth of the three <hi>Nations,</hi> to Generous Attempts, for the Glory of their Countrey: With a Proſpect of the preſent Gallant Campagne on Black-Heath.</p>
+            <p>
+               <hi>VVritten by a young Gentleman of Quality now in the Service;</hi>
+            </p>
+            <q>
+               <hi>Dignos Laude Viros Muſa vetabit Mori:</hi>
+            </q>
+            <p>
+               <hi>LONDON</hi> Printed by <hi>H. B.</hi> for <hi>John Clark</hi> at the Harp and Bible in <hi>VVeſt-Smithfield.</hi> 1673.</p>
+            <pb facs="tcp:154202:4"/>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="3" facs="tcp:154202:4"/>
+            <head>HONOURS INVITATION OR A Call to the Camp, &amp;c.</head>
+            <l>
+               <seg rend="decorInit">B</seg>RED by fond Mothers too Indulgent Care,</l>
+            <l>My vainer life ſpun on its thirtieth Year:</l>
+            <l>Charm'd with the Poyſonous ſweets of barren Eaſe,</l>
+            <l>And all the luxuries of wanton Peace;</l>
+            <l>To duell Rampant <hi>miſs</hi> on a ſoft Bed</l>
+            <l>Hector the watch, or break a Drawers Head</l>
+            <l>To drown a younger Brother in a Look</l>
+            <l>Kick a poor Lacquey, or berogue a Cook</l>
+            <l>Top a ſmall crew of Tenants that dare Stir</l>
+            <l>In no language, but, <hi>pleaſe your Worſhip Sir,</hi>
+            </l>
+            <l>To chaſe the Stagg, and now and then purſue</l>
+            <l>The timerous Hare, were all the Warrs I knew;</l>
+            <l>When drunk or'e night with generous Burgundy</l>
+            <l>I thought (as Gallants uſe) to ſleep all Sunday</l>
+            <l>
+               <pb n="4" facs="tcp:154202:5"/>
+But ſcarce could <hi>Morpheus</hi> leaden plumets cloſe</l>
+            <l>My Eye, and lock my Senſes in repoſe,</l>
+            <l>VVhen, lo! A reverend Spectrum did appear</l>
+            <l>Surprizing me with equal joy and fear;</l>
+            <l>It ſeem'd a Perſonage of Nobleſt Race</l>
+            <l>A Manly preſence, and Majeſtick Face</l>
+            <l>An Azure Mantle flowing round his VVaſt</l>
+            <l>And his ſtrong hands with <hi>Neptunes</hi> Trident Grac'd</l>
+            <l>Three Crowns he bore, and under them his Brow</l>
+            <l>Circled with Laurels freſh pluck't from the Bough.</l>
+            <l>I gaz'd a while, till it approacht more near</l>
+            <l>And thus (with voyce like Thunder) peirc'd my ear</l>
+            <l>VVilt thou, Degenerous Youth! Ignobly Blot</l>
+            <l>The Trophies which thy Anceſtors have Got?</l>
+            <l>Prove them the Sires of a ſpurious Race?</l>
+            <l>Ore'turn their Statues, and their Tombs Deface;</l>
+            <l>Forfeit thoſe Honours which they left to thee</l>
+            <l>By ſleeping in a ſenceleſs Lethargy?</l>
+            <l>Now, when each Noble Soul, greedy of Fame</l>
+            <l>Feels his breſt glowing with a generous Flame</l>
+            <l>VVhen Sceens of blood on neighbouring ſhores appear</l>
+            <l>And furious <hi>Mars</hi> ſways all our Hemiſphear;</l>
+            <l>VVilt thou alone, ſtupidly drown'd, prefer</l>
+            <l>Sordid delights to the Glory of the warr?</l>
+            <l>Decline that Road of Honour which Diſplays</l>
+            <l>To every daring hand a wreath of Bays</l>
+            <l>And in a wretched ſloth conſume thy days?</l>
+            <l>Can the poor yelpings of a deep-mouth'd Hound</l>
+            <l>Vye Muſick with the warlike Trumpets Sound?</l>
+            <l>Or faint Applauſes of a Horſe race won</l>
+            <l>(VVhen ſprightly <hi>Sorrel</hi> out-flew nimble <hi>Dun)</hi>
+            </l>
+            <l>Equal thoſe Acclammations that are ſent</l>
+            <l>In Vollies to the Ecchoing Firmament?</l>
+            <l>VVhich every Victor juſtly calls his own?</l>
+            <l>For Kingdoms conquer'd, and proud States ore-thrown?</l>
+            <l>Shall Troops of <hi>Heroes</hi> from all parts reſort,</l>
+            <l>That quit the ſofter pleaſures of the Court?</l>
+            <l>
+               <pb n="5" facs="tcp:154202:5"/>
+Charge death ith face, and forward ſtill Aſpire</l>
+            <l>Through midſt of dangers ſwift as Heavens Fire?</l>
+            <l>Shall the Drums Rattling Summons nimbly bring</l>
+            <l>Crouds of vulgar in, to ſerve their King?</l>
+            <l>That laugh at hardſhips, and dare bravely dye,</l>
+            <l>If Fate requir't, to purchaſe Victory?</l>
+            <l>And their Example neither move thy ſpirit</l>
+            <l>Nor Emulation of the others merit?</l>
+            <l>VVhat drowſie <hi>Opium</hi> has poſſeſt thy Brain</l>
+            <l>Dull ſoul! That all theſe Joggins are in Vain?</l>
+            <l>For ſhame at laſt awake leſt it be ſaid</l>
+            <l>Your courage does not ſlumber, but is dead;</l>
+            <l>From befo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e paltry <hi>Beauties</hi> raiſe your ſeige</l>
+            <l>VVho thinks by feign'd reſiſtance to oblige</l>
+            <l>Nor let the kinder Ladies tempting Charms</l>
+            <l>Confine you ſtill to their enfeebling Arms:</l>
+            <l>(VVhen Fate turn'd prodigal, freely affords)</l>
+            <l>The Deſtinies of Nations to your ſwords<g ref="char:punc">▪</g>
+            </l>
+            <l>Let mighty cities be your Miſtreſſes</l>
+            <l>VVhoſe dowry brings the ſpoils of Provinces;</l>
+            <l>Level their prouder walls, and let it be</l>
+            <l>A doubt hereafter to Poſterity</l>
+            <l>When only ſhatter'd Monuments they vieu</l>
+            <l>Whether <hi>Joves</hi> thunder hath been there, or you;</l>
+            <l>Theſe are atcheivments fitting to be done</l>
+            <l>By each dares call himſelf ſtout <hi>Englands</hi> ſon.</l>
+            <l>As a brave courſer ſtanding on the ſand</l>
+            <l>Of ſome ſwelling Sea-channel vieus a land</l>
+            <l>Smiling with ſweets upon the diſtant ſide</l>
+            <l>Garniſh in natures beſt Embroider'd pride</l>
+            <l>Larded with ſprings, and fring'd with curled woods</l>
+            <l>Impatient bounces into the capering floods</l>
+            <l>Bigg with a nobler fury than that ſtream</l>
+            <l>Of ſhallow violence he meets in them</l>
+            <l>Thence arm'd with ſcorn and courage ploughs a way</l>
+            <l>Through the Impoſtum'd Billows of the ſea</l>
+            <l>And makes the grumbling ſurges, ſlaves to Oar</l>
+            <l>And waft him ſafely to the further ſhoar</l>
+            <l>
+               <pb n="6" facs="tcp:154202:6"/>
+Where landed in a ſovereign diſdain</l>
+            <l>He turning back ſurveys the foaming main</l>
+            <l>Whilſt the ſubjected waters, flowing, reel</l>
+            <l>Ambitious yet to kiſs their Conq'rours heel.</l>
+            <l>At ſuch a generous rate ſhouldſt thou ingage,</l>
+            <l>In the grand Expedition of our age,</l>
+            <l>Thy active ſoul in gallant fury hurl'd</l>
+            <l>To club with all the <hi>Worthies</hi> of the world</l>
+            <l>Then rouz at laſt from this Lethargick dream</l>
+            <l>And let Heroick actions be thy theme.</l>
+            <l>No more to baſe Effeminate follies yield</l>
+            <l>Thy countreys GENIUS calls thee to the field.</l>
+            <l>No ſooner theſe laſt Accents had I heard</l>
+            <l>But ſtreight the glorious viſion diſappear'd;</l>
+            <l>And round about methoughts a glittering ray</l>
+            <l>Was ſpread, creating in my ſoul new day.</l>
+            <l>As <hi>Caeſar</hi> once on banks of <hi>Rubicon</hi>
+            </l>
+            <l>Stood ſhivering and ſcarce durſt venture on,</l>
+            <l>Till lucky Daemon by a ſignal chance</l>
+            <l>Becken'd him or'e and made his Troops advance,</l>
+            <l>So I confirm'd by this good Omen found</l>
+            <l>Thoſe miſts exhal'd which had my courage drown'd.</l>
+            <l>Bluſhing I riſe, and to the Eaſtwards ſpy</l>
+            <l>As brave a ſight as ever courted eye.</l>
+            <l>Encamp'd there lay upon a ſpreading plain</l>
+            <l>Of ſprightly warlike youths a numerous train;</l>
+            <l>Dreſt in ſuch arms as thoſe where with <hi>Mars</hi> lays</l>
+            <l>Worlds waſt, and new ones from their duſt can raiſe;</l>
+            <l>Led by a Chief whoſe valorous fervour can</l>
+            <l>Hatch him whom nature broach'd but half a man,</l>
+            <l>VVhoſe trumpets, like the Angels at the laſt</l>
+            <l>Make the ſoul riſe by a miraculous blaſt</l>
+            <l>Were the mount <hi>Athos</hi> carv'd in ſhape of man</l>
+            <l>(As fancied by the <hi>Macedonian)</hi>
+            </l>
+            <l>Whoſe right hand ſhould a populous land contein</l>
+            <l>And the left be a channel to the Main</l>
+            <l>His ſpirit might inform ſo vaſt a figure</l>
+            <l>Yet ſtill ſtreight lac'd ſweat for dominion bigger Like</l>
+            <l>
+               <pb n="7" facs="tcp:154202:6"/>
+Under this ſun a thouſand ſparks bare place</l>
+            <l>Like ſtarrs, Honours bright Firmament to Grace</l>
+            <l>Whilſt common Souldiers from their Tents ariſe</l>
+            <l>As ſmall <hi>Sporad</hi>'s to Beautify the Skies.</l>
+            <l>Ah Glorious Art of war I cry'd! from whence</l>
+            <l>All Honour and all Power did firſt Commence,</l>
+            <l>By which the Grandeur of each ſtate doth grow</l>
+            <l>And unto which Nations their ſafety owe,</l>
+            <l>Henceforth my <hi>Miſtreſs</hi> thou alone ſhalt be</l>
+            <l>And all my ſtrength I conſecrate to thee,</l>
+            <l>Hence then you gay diverſions of the Town</l>
+            <l>Your bubling vanities I muſt diſown,</l>
+            <l>Morning long ſleeps adieu, let ſordid Eaſe</l>
+            <l>Silken Buffoons, and painted Peacocks pleaſe,</l>
+            <l>Whoſe labouring ſouls being ſtiffled with Exceſs</l>
+            <l>Scarce keep from ſtench their rotten Carcaſſes,</l>
+            <l>Whilſt I'mid'ſt blood and ſweat and toils of war</l>
+            <l>Through ſtorms, cold, hunger, and many a ſcar,</l>
+            <l>Purſue my Fate, reſolved thus to have</l>
+            <l>An Honour'd Life, or elſe a Noble Grave.</l>
+            <closer>
+               <dateline>
+                  <hi>VVith Allowance,</hi> 
+                  <date>June 21. 1673.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:154202:7"/>
+            <pb facs="tcp:154202:8"/>
+            <pb facs="tcp:154202:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
